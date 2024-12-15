@@ -1,0 +1,6 @@
+@UserTaskAPI_HostAddress = http://localhost:5118
+
+GET {{UserTaskAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
